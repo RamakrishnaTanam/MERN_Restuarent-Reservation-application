@@ -34,24 +34,33 @@ Deployment: Deployed on Heroku (or specify your platform)
 **Clone the repository:**
 
 git clone https://github.com/RamakrishnaTanam/Restuarent-Reservation-application.git
+
 Navigate to the project directory:
 
 
 cd Restuarent-Reservation-application
+
 Install dependencies for both frontend and backend:
 
 Frontend:
+
 cd client
+
 npm install
 
 
 Backend:
+
 cd server
+
 npm install
+
 Run the application:
 
 Frontend: npm start (from the client folder)
+
 Backend: npm start (from the server folder)
 
 **Contribution**
+
 Please feel free to fix the repository and open issues and submit pull requests.
