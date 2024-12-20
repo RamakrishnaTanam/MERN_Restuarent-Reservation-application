@@ -6,16 +6,24 @@ The Restaurant Reservation System is a web-based application that allows users t
 **Features**
 
 User Interface: Intuitive and responsive UI for easy reservation.
+
 Real-time Availability: View available slots for reservations in real time.
+
 Admin Panel: Manage reservations and view user details.
+
 Email Notifications: Automated confirmation and reminder emails.
 
 
 **Tech Stack**
+
 Frontend: React.js
+
 Backend: Node.js, Express.js
+
 Database: MongoDB
+
 Authentication: JWT (JSON Web Tokens)
+
 Deployment: Deployed on Heroku (or specify your platform)
 
 
