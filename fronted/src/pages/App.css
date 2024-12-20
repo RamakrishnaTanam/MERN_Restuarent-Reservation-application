@@ -578,7 +578,7 @@ nav svg {
     font-size: 1.3rem;
   }
 }
-@media (max-width: 1000px) {
+/* @media (max-width: 1000px) {
   .menu .container .dishes_container .card {
     width: 50%;
   }
@@ -1110,5 +1110,5 @@ footer .container .banner .right {
   .notFound .container h1 {
     font-size: 1.75rem;
   }
-}
+} */
 /**********************************************************************************************************************/
