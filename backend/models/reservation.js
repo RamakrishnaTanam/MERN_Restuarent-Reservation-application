@@ -24,6 +24,8 @@ const reservationSchema = new mongoose.Schema({
     type: String,
     required: true,
     validate: [validator.isEmail, "Provide a valid email"],
+    minLength: [3, "Last name must be of at least 3 characters."],
+    maxLength: [30, "Last name cannot exceed 30 Characters."],
   },
   phone: {
     type: String,
