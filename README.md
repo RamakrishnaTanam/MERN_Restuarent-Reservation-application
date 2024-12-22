@@ -26,7 +26,6 @@ Database: MongoDB
 
 Authentication: JWT (JSON Web Tokens)
 
-Deployment: Deployed on Heroku (or specify your platform)
 
 
 **Setup**
