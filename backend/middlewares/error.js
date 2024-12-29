@@ -10,7 +10,7 @@ class ErrorHandler extends Error {
     err.statusCode = err.statusCode || 500;
   
     if (err.name === "CastError") {
-      const message = `Resource not found. Invalid: ${err.path}`;
+      const message = `Not Found any resource. Invalid: ${err.path}`;
       err = new ErrorHandler(message, 400);
     }
   
