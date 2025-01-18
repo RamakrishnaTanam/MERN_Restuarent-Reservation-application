@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import { HiOutlineArrowRight } from "react-icons/hi";
+import { HiOutlineArrowRight } from "react-icons";
 
 const About = () => {
   return (
